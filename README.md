@@ -3,6 +3,9 @@
 
 # Coding Challenge program:
 
+Challenge #:1
+  The solution to challendge 1 is in file q1.c
+
 Challenge #: 2
 
 Solution Language: Python
