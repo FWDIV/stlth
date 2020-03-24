@@ -7,7 +7,7 @@ Challenge #:1
   The solution to challendge 1 is in file q1.c
 
 Challenge #: 2
-
+  The solution to challenge 2 is in the files server.py and client.py
 Solution Language: Python
 Solution: server.py & client.py
 
